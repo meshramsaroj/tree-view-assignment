@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+ul li {
+  list-style-type: none;
+}
+
+.d-tree-head {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.h-100vh {
+  height: 100vh;
+}
